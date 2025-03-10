@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up? 🐱‍👤</h1>
 
-<!--
-**hphuck/hphuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">My name is phuc.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="center">https://www.tiktok.com/@nguoitoico19</p>
+
+###
+
+<p align="center">https://www.facebook.com/profile.php?id=100092421042258</p>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/87/8c/53/878c5376b10b2f842a06fae2d386c463.gif"  />
+</div>
+
+###
